@@ -1,0 +1,27 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1137" measuredH="815" mockupW="980" mockupH="800">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="157" y="15" w="980" h="800" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20Flying%20Message%0Ahttp%3A//www.flyingmessage.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="459" y="350" w="-1" h="-1" measuredW="347" measuredH="131" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/logo.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="610" y="513" w="-1" h="-1" measuredW="55" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>FM-02%26bm%3BFM-02.bmml%26bm%3BFM-02.bmml%26bm%3BFM-02.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22453%2C498%2C508%2C525%22%20href%3D%22FM-02.bmml%22%20alt%3D%22FM-02%22%20id%3D%223%22/%3E</map>
+        <text>Enter</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="159" y="88" w="976" h="697" measuredW="1024" measuredH="768" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/paper_airplane-wallpaper-1024x768.jpg</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
